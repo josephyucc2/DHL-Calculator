@@ -18,3 +18,13 @@ D:\Google Drive\dhl_calc 20170907\DHL calc\obj\Release\DHL calc.csproj.GenerateR
 D:\Google Drive\dhl_calc 20170907\DHL calc\obj\Release\DHL calc.csproj.CoreCompileInputs.cache
 D:\Google Drive\dhl_calc 20170907\DHL calc\obj\Release\DHL calc.exe
 D:\Google Drive\dhl_calc 20170907\DHL calc\obj\Release\DHL calc.pdb
+C:\Users\josep\Desktop\DHL-Calculator\DHL calc\bin\Release\DHL calc.exe.config
+C:\Users\josep\Desktop\DHL-Calculator\DHL calc\bin\Release\DHL calc.exe
+C:\Users\josep\Desktop\DHL-Calculator\DHL calc\bin\Release\DHL calc.pdb
+C:\Users\josep\Desktop\DHL-Calculator\DHL calc\obj\Release\DHL calc.csprojAssemblyReference.cache
+C:\Users\josep\Desktop\DHL-Calculator\DHL calc\obj\Release\DHL_calc.Globals.resources
+C:\Users\josep\Desktop\DHL-Calculator\DHL calc\obj\Release\DHL_calc.Properties.Resources.resources
+C:\Users\josep\Desktop\DHL-Calculator\DHL calc\obj\Release\DHL calc.csproj.GenerateResource.cache
+C:\Users\josep\Desktop\DHL-Calculator\DHL calc\obj\Release\DHL calc.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\DHL-Calculator\DHL calc\obj\Release\DHL calc.exe
+C:\Users\josep\Desktop\DHL-Calculator\DHL calc\obj\Release\DHL calc.pdb

@@ -64,7 +64,6 @@
             this.label2.Size = new System.Drawing.Size(90, 24);
             this.label2.TabIndex = 1;
             this.label2.Text = "物品重量:";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
@@ -103,7 +102,6 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 22);
             this.textBox1.TabIndex = 5;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // button1
             // 
@@ -136,7 +134,6 @@
             this.label6.Size = new System.Drawing.Size(90, 24);
             this.label6.TabIndex = 10;
             this.label6.Text = "燃料稅率:";
-            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // label7
             // 
@@ -160,7 +157,6 @@
             this.comboBox2.Size = new System.Drawing.Size(100, 20);
             this.comboBox2.TabIndex = 13;
             this.comboBox2.Text = "包裹";
-            this.comboBox2.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
             // 
             // textBox2
             // 
@@ -168,7 +164,6 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 22);
             this.textBox2.TabIndex = 11;
-            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged_1);
             // 
             // label8
             // 
@@ -221,7 +216,6 @@
             this.DoubleBuffered = true;
             this.Name = "Form1";
             this.Text = "DHL Calc";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
