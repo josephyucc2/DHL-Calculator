@@ -1,0 +1,42 @@
+E:\VSProjects\DHL calc\DHL calc\bin\Debug\DHL calc.exe.config
+E:\VSProjects\DHL calc\DHL calc\bin\Debug\DHL calc.exe
+E:\VSProjects\DHL calc\DHL calc\bin\Debug\DHL calc.pdb
+E:\VSProjects\DHL calc\DHL calc\obj\Debug\DHL calc.csprojResolveAssemblyReference.cache
+E:\VSProjects\DHL calc\DHL calc\obj\Debug\DHL_calc.Form1.resources
+E:\VSProjects\DHL calc\DHL calc\obj\Debug\DHL_calc.Properties.Resources.resources
+E:\VSProjects\DHL calc\DHL calc\obj\Debug\DHL calc.csproj.GenerateResource.Cache
+E:\VSProjects\DHL calc\DHL calc\obj\Debug\DHL calc.exe
+E:\VSProjects\DHL calc\DHL calc\obj\Debug\DHL calc.pdb
+E:\VSProjects\DHL calc\DHL calc\obj\Debug\DHL_calc.CountryCheckList.resources
+E:\VSProjects\DHL calc\DHL calc\obj\Debug\DHL calc.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Yu\Desktop\DHL calc\DHL calc\bin\Debug\DHL calc.exe.config
+C:\Users\Joseph Yu\Desktop\DHL calc\DHL calc\bin\Debug\DHL calc.exe
+C:\Users\Joseph Yu\Desktop\DHL calc\DHL calc\bin\Debug\DHL calc.pdb
+C:\Users\Joseph Yu\Desktop\DHL calc\DHL calc\obj\Debug\DHL calc.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Yu\Desktop\DHL calc\DHL calc\obj\Debug\DHL_calc.Form1.resources
+C:\Users\Joseph Yu\Desktop\DHL calc\DHL calc\obj\Debug\DHL_calc.Properties.Resources.resources
+C:\Users\Joseph Yu\Desktop\DHL calc\DHL calc\obj\Debug\DHL calc.csproj.GenerateResource.Cache
+C:\Users\Joseph Yu\Desktop\DHL calc\DHL calc\obj\Debug\DHL calc.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Yu\Desktop\DHL calc\DHL calc\obj\Debug\DHL calc.exe
+C:\Users\Joseph Yu\Desktop\DHL calc\DHL calc\obj\Debug\DHL calc.pdb
+E:\VSProjects\dhl_calc 20170907\DHL calc\bin\Debug\DHL calc.exe.config
+E:\VSProjects\dhl_calc 20170907\DHL calc\bin\Debug\DHL calc.exe
+E:\VSProjects\dhl_calc 20170907\DHL calc\bin\Debug\DHL calc.pdb
+E:\VSProjects\dhl_calc 20170907\DHL calc\obj\Debug\DHL calc.csprojResolveAssemblyReference.cache
+E:\VSProjects\dhl_calc 20170907\DHL calc\obj\Debug\DHL_calc.Form1.resources
+E:\VSProjects\dhl_calc 20170907\DHL calc\obj\Debug\DHL_calc.Properties.Resources.resources
+E:\VSProjects\dhl_calc 20170907\DHL calc\obj\Debug\DHL calc.csproj.GenerateResource.Cache
+E:\VSProjects\dhl_calc 20170907\DHL calc\obj\Debug\DHL calc.csproj.CoreCompileInputs.cache
+E:\VSProjects\dhl_calc 20170907\DHL calc\obj\Debug\DHL calc.exe
+E:\VSProjects\dhl_calc 20170907\DHL calc\obj\Debug\DHL calc.pdb
+D:\Google Drive\dhl_calc 20170907\DHL calc\bin\Debug\DHL calc.exe.config
+D:\Google Drive\dhl_calc 20170907\DHL calc\bin\Debug\DHL calc.exe
+D:\Google Drive\dhl_calc 20170907\DHL calc\bin\Debug\DHL calc.pdb
+D:\Google Drive\dhl_calc 20170907\DHL calc\obj\Debug\DHL calc.csprojResolveAssemblyReference.cache
+D:\Google Drive\dhl_calc 20170907\DHL calc\obj\Debug\DHL_calc.Form1.resources
+D:\Google Drive\dhl_calc 20170907\DHL calc\obj\Debug\DHL_calc.Properties.Resources.resources
+D:\Google Drive\dhl_calc 20170907\DHL calc\obj\Debug\DHL calc.csproj.GenerateResource.cache
+D:\Google Drive\dhl_calc 20170907\DHL calc\obj\Debug\DHL calc.csproj.CoreCompileInputs.cache
+D:\Google Drive\dhl_calc 20170907\DHL calc\obj\Debug\DHL calc.csproj.CopyComplete
+D:\Google Drive\dhl_calc 20170907\DHL calc\obj\Debug\DHL calc.exe
+D:\Google Drive\dhl_calc 20170907\DHL calc\obj\Debug\DHL calc.pdb
