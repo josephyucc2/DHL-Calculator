@@ -18,8 +18,8 @@ namespace DHL_calc
     }
     class Fee
     {
-        public float weight;
-        public List<float> price = new List<float>();
+        public double weight;
+        public List<double> price = new List<double>();
         public Fee(List<String> input)
         {
             weight = Convert.ToSingle(input[0]);
@@ -32,8 +32,8 @@ namespace DHL_calc
     }
     class ExtraFee
     {
-        public float maxWeight,minWeight;
-        public List<float> price = new List<float>();
+        public double maxWeight,minWeight;
+        public List<double> price = new List<double>();
         public ExtraFee(List<String> input)
         {
             minWeight = Convert.ToSingle(input[0]);

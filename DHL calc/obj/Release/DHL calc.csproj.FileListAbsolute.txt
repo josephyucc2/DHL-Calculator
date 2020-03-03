@@ -28,3 +28,13 @@ C:\Users\josep\Desktop\DHL-Calculator\DHL calc\obj\Release\DHL calc.csproj.Gener
 C:\Users\josep\Desktop\DHL-Calculator\DHL calc\obj\Release\DHL calc.csproj.CoreCompileInputs.cache
 C:\Users\josep\Desktop\DHL-Calculator\DHL calc\obj\Release\DHL calc.exe
 C:\Users\josep\Desktop\DHL-Calculator\DHL calc\obj\Release\DHL calc.pdb
+E:\DHL-Calculator\DHL calc\bin\Release\DHL calc.exe.config
+E:\DHL-Calculator\DHL calc\bin\Release\DHL calc.exe
+E:\DHL-Calculator\DHL calc\bin\Release\DHL calc.pdb
+E:\DHL-Calculator\DHL calc\obj\Release\DHL calc.csprojAssemblyReference.cache
+E:\DHL-Calculator\DHL calc\obj\Release\DHL_calc.Form1.resources
+E:\DHL-Calculator\DHL calc\obj\Release\DHL_calc.Properties.Resources.resources
+E:\DHL-Calculator\DHL calc\obj\Release\DHL calc.csproj.GenerateResource.cache
+E:\DHL-Calculator\DHL calc\obj\Release\DHL calc.csproj.CoreCompileInputs.cache
+E:\DHL-Calculator\DHL calc\obj\Release\DHL calc.exe
+E:\DHL-Calculator\DHL calc\obj\Release\DHL calc.pdb

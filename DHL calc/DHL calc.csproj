@@ -87,6 +87,10 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="出口30.csv" />
+    <None Include="出口包裹.csv" />
+    <None Include="出口文件.csv" />
+    <None Include="國家分區.csv" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -51,3 +51,14 @@ C:\Users\josep\Desktop\DHL-Calculator\DHL calc\bin\Debug\DHL calc.exe
 C:\Users\josep\Desktop\DHL-Calculator\DHL calc\bin\Debug\DHL calc.pdb
 C:\Users\josep\Desktop\DHL-Calculator\DHL calc\obj\Debug\DHL calc.csproj.CopyComplete
 C:\Users\josep\Desktop\DHL-Calculator\DHL calc\obj\Debug\DHL_calc.Globals.resources
+E:\DHL-Calculator\DHL calc\bin\Debug\DHL calc.exe.config
+E:\DHL-Calculator\DHL calc\bin\Debug\DHL calc.exe
+E:\DHL-Calculator\DHL calc\bin\Debug\DHL calc.pdb
+E:\DHL-Calculator\DHL calc\obj\Debug\DHL calc.csprojAssemblyReference.cache
+E:\DHL-Calculator\DHL calc\obj\Debug\DHL_calc.Properties.Resources.resources
+E:\DHL-Calculator\DHL calc\obj\Debug\DHL calc.csproj.GenerateResource.cache
+E:\DHL-Calculator\DHL calc\obj\Debug\DHL calc.csproj.CoreCompileInputs.cache
+E:\DHL-Calculator\DHL calc\obj\Debug\DHL calc.csproj.CopyComplete
+E:\DHL-Calculator\DHL calc\obj\Debug\DHL calc.exe
+E:\DHL-Calculator\DHL calc\obj\Debug\DHL calc.pdb
+E:\DHL-Calculator\DHL calc\obj\Debug\DHL_calc.Form1.resources
